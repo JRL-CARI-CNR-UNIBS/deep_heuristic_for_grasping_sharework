@@ -1,0 +1,3 @@
+float64 feasibility_estimate
+geometry_msgs/Point approach_point
+geometry_msgs/Point approach_direction

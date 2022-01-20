@@ -1,0 +1,5 @@
+#list of boxes with pose and size
+CustomBox[] boxes
+---
+#list of struct containing feasibility, approach position, and approach direction
+Feasibility[] properties
